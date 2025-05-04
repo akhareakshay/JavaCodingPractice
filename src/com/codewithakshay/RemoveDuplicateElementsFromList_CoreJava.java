@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 /*
- * 2) How do you remove duplicate elements from a list using Java 8 streams?
+ * 2) How do you remove duplicate elements from a list using Core Java
 */
 
 public class RemoveDuplicateElementsFromList_CoreJava {
