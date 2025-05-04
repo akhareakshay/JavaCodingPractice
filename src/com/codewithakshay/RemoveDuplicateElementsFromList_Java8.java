@@ -17,6 +17,11 @@ public class RemoveDuplicateElementsFromList_Java8 {
 		Set<String> uniqueElements = listOfStrings.stream().collect(Collectors.toSet());
 		
 		System.out.println(uniqueElements);
+		
+//		BY USING DISTINCT()
+		List<String> uniqueStrings = listOfStrings.stream().distinct().collect(Collectors.toList());
+		
+		System.out.println(uniqueStrings);
 
 	}
 
