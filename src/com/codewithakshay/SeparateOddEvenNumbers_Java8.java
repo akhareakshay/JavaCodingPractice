@@ -7,6 +7,10 @@ import java.util.Map.Entry;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/*
+ * 1) Given a list of integers, separate odd and even numbers
+ */
+
 public class SeparateOddEvenNumbers_Java8 {
 
 	public static void main(String[] args) {

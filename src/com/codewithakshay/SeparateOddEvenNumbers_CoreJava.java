@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/*
+ * 1) Given a list of integers, separate odd and even numbers
+ */
+
 public class SeparateOddEvenNumbers_CoreJava {
 	public static void main(String[] args) {
 
